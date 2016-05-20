@@ -5,10 +5,11 @@
  
 **NPM Globals**
 
-*Wepback - 1.13.0*
+*wepback - 1.13.0*
 
 *typescript - 1.8.10*
 
+*http-server*
 
 **Links**
 
