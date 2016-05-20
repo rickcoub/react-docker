@@ -13,4 +13,4 @@
 
 **Links**
 
-[Docker hub ( automated builds )] (https://hub.docker.com/r/unknownhero/react-docker/)
+[Docker hub automated builds] (https://hub.docker.com/r/unknownhero/react-docker/)
