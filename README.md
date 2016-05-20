@@ -9,7 +9,7 @@
 
 *typescript - 1.8.10*
 
-*http-server*
+*http-server - 0.9.0*
 
 **Links**
 
